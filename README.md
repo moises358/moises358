@@ -1,20 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00CC00&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HEY,+My+name+is+Moisés+Antunes;I+am+a+technical+in+systems+development:%29)](https://git.io/typing-svg)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=moises358&bg_color=0d1117&color=00FF00&line=00FF00&point=00FF00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=moises358&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=moises358&show_icons=true&count_private=true&hide_border=true&title_color=00CC00&icon_color=66FF66&text_color=00CC00&bg_color=0d1117" alt="Moisés Antunes github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moises358&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
-</div>
 
 
 <div align="center"> 
