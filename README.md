@@ -1,4 +1,6 @@
-# Olá Mundo,Eu sou Moisés. Bem vindo ao meu perfil do GitHub
+# Olá Mundo, sou Moisés. 
+
+Seja bem vindo(a) ao meu perfil do GitHub
 
 <table>
   <a href="https://github.com/moises358">
